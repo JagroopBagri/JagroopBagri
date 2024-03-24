@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 
 Hello :) 
 
-I'm **Jagroop Bagri**, a full stack developer from California! 🌞
+I'm **Jagroop Bagri**, a full stack developer from California! 
 
-## 👨‍💻 About Me
+## About Me
 
 I am a self-taught software developer with more than two years of professional experience. Originally coming from a medical background, my journey into software development began out of curiosity and a genuine passion for technology and problem-solving. This unique path has equipped me with a diverse skill set and a distinctive perspective on how technology can be leveraged to improve lives. Currently, I specialize in creating robust, scalable web applications that deliver seamless user experiences.
 
 ---
 
-### 💻 Programming Languages and Frameworks
+### Programming Languages and Frameworks
 - **Frontend**: React, Nextjs, Vue, TypeScript, JavaScript
 - **Backend**: Nodejs, Express
 - **Styling**: CSS, Styled Components, TailwindCSS
@@ -34,7 +34,7 @@ I am a self-taught software developer with more than two years of professional e
 
 ---
 
-## 📫 How to reach me
+## How to reach me
 
 - **LinkedIn**: [Jagroop Bagri](https://www.linkedin.com/in/jagroop-bagri/)
 - **Email**: [jagroopbagri5@gmail.com](mailto:jagroopbagri5@gmail.com)
