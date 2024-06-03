@@ -37,5 +37,5 @@ I am a self-taught software developer with more than two years of professional e
 ## How to reach me
 
 - **LinkedIn**: [Jagroop Bagri](https://www.linkedin.com/in/jagroop-bagri/)
-- **Email**: [jagroopbagri5@gmail.com](mailto:jagroopbagri5@gmail.com)
+- **Email**: [jagroopbagri5@yahoo.com](mailto:jagroopbagri5@yahoo.com)
 
