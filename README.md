@@ -13,12 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Jagroop Bagri
-
-Hello :) 
-
-I'm **Jagroop Bagri**, a full stack developer from California! 
-
 ## About Me
 
 I am a self-taught software developer with more than two years of professional experience. Originally coming from a medical background, my journey into software development began out of curiosity and a genuine passion for technology and problem-solving. This unique path has equipped me with a diverse skill set and a distinctive perspective on how technology can be leveraged to improve lives. Currently, I specialize in creating robust, scalable web applications that deliver seamless user experiences.
