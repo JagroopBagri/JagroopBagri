@@ -1,3 +1,13 @@
+# 👳🏻‍♂️ 💻
+
+I'm a self-taught software engineer with more than three years of professional experience. Originally coming from a medical background, my journey into software development began out of curiosity and a genuine passion for technology and problem-solving. Currently, I specialize in creating robust, scalable web applications that deliver seamless user experiences.
+
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JagroopBagri&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JagroopBagri&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JagroopBagri&theme=dracula)|
+|-----|------|------|
+
+ 
+Above stats generated with: [`tipsy/profile-summary-for-github`](https://github.com/tipsy/profile-summary-for-github)
+
 <!--
 **JagroopBagri/JagroopBagri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,23 +25,3 @@ Here are some ideas to get you started:
 
 <!--
 
-## About Me
-
-I am a self-taught software developer with more than three years of professional experience. Originally coming from a medical background, my journey into software development began out of curiosity and a genuine passion for technology and problem-solving. This unique path has equipped me with a diverse skill set and a distinctive perspective on how technology can be leveraged to improve lives. Currently, I specialize in creating robust, scalable web applications that deliver seamless user experiences.
-
----
-
-### Programming Languages and Frameworks
-- **Frontend**: React, Nextjs, Vue, TypeScript, JavaScript
-- **Backend**: Nodejs, Express
-- **Styling**: CSS, Styled Components, TailwindCSS
-- **Database Management**: PostgreSQL, MongoDB
-- **ORM & Query Builders**: Prisma, Mongoose
-
----
-
-## How to reach me
-
-- **LinkedIn**: [Jagroop Bagri](https://www.linkedin.com/in/jagroop-bagri/)
-- **Email**: [jagroopbagri5@yahoo.com](mailto:jagroopbagri5@yahoo.com)
--->
