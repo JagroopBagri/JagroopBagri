@@ -1,6 +1,8 @@
-# 👳🏻‍♂️ 💻
+# 👳🏻‍♂️ Full-Stack Developer | Crafting Scalable Web Apps 💻
 
-I'm a full-stack software engineer specializing in creating robust, scalable web applications that deliver seamless user experiences.
+I'm a full-stack engineer specializing in creating robust, scalable web applications that deliver seamless user experiences.
+
+### 📊 GitHub Stats
 
 |![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JagroopBagri&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JagroopBagri&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JagroopBagri&theme=dracula)|
 |-----|------|------|
