@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 I'm a self-taught software engineer with more than three years of professional experience. Originally coming from a medical background, my journey into software development began out of curiosity and a genuine passion for technology and problem-solving. Currently, I specialize in creating robust, scalable web applications that deliver seamless user experiences.
 
+-->
 
 <!--
 
